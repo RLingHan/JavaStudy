@@ -13,7 +13,7 @@ public class DbUtil {
 	
 	private String dbUrl = "jdbc:mysql://localhost:3306/db_book";//连接地址
 	private String dbUserName="root";//用户名
-	private String dbPassword="13435127620";//密码
+	private String dbPassword="123456";//密码
 	private String jdbcName="com.mysql.cj.jdbc.Driver";
 	
 	/**
